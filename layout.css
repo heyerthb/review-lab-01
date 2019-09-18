@@ -1,0 +1,83 @@
+/* .container {
+  display:inline;
+  background-color: yellow;
+} */
+
+
+#a {
+  height: 100px;
+  width: 960px;
+  background-color: yellow;
+  position: fixed;
+}
+
+
+#b {
+  height: 600px;
+  width: 200px;
+  float: left;
+  background-color: aqua;
+}
+
+
+#c {
+  height: 200px;
+  width: 380px;
+  background-color: blue;
+  float: left;
+
+}
+
+
+#d {
+  height: 200px;
+  width: 380px;
+  background-color: blueviolet;
+  float: right;
+}
+
+
+
+.cell {
+  float: left;
+  
+}
+
+#e {
+  height: 250px;
+  width: 190px;
+  background-color: aquamarine;
+
+}
+
+
+#f {
+  height: 250px;
+  width: 190px;
+  background-color: aquamarine;
+
+}
+
+
+#g {
+  height: 250px;
+  width: 190px;
+  background-color: aquamarine;
+
+}
+
+
+#h {
+  height: 250px;
+  width: 190px;
+  background-color: aquamarine;
+
+}
+
+
+#i {
+  height: 150px;
+  width: 760px;
+  float:left;
+
+}
